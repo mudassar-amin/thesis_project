@@ -1,0 +1,179 @@
+Chord,Notes
+C-major,C4 E4 G4
+D-minor,D4 F4 A4
+E-minor,E4 G4 B4
+F-major,F4 A4 C4
+G-major,G4 B4 D4
+A-minor,A4 C4 E4
+B-diminished,B4 D4 F4
+A-minor,A4 C4 E4
+B-diminished,B4 D4 F4
+C-major,C4 E4 G4
+D-minor,D4 F4 A4
+E-minor,E4 G4 B4
+F-major,F4 A4 C4
+G-major,G4 B4 D4
+C-major seventh,C4 E4 G4 B4
+C-major-ninth,C4 E4 G4 B4 D4
+D-minor seventh,D4 F4 A4 C4
+D-minor-ninth,D4 F4 A4 C4 E4
+E-minor seventh,E4 G4 B4 D4
+E-minor-ninth,E4 G4 B4 D4 F#4
+F-major seventh,F4 A4 C4 E4
+F-major-ninth,F4 A4 C4 E4 G4
+G-dominant seventh,G4 B4 D4 F4
+G-dominant-ninth,G4 B4 D4 F4 A4
+A-minor seventh,A4 C4 E4 G4
+A-minor-ninth,A4 C4 E4 G4 B4
+B-half-diminished seventh,B4 D4 F4 A4
+B-diminished-major ninth,B4 D4 F4 A4 C4
+A-minor seventh,A4 C4 E4 G4
+A-minor-ninth,A4 C4 E4 G4 B4
+B-half-diminished seventh,B4 D4 F4 A4
+B-diminished-major ninth,B4 D4 F4 A4 C4
+C-major seventh,C4 E4 G4 B4
+C-major-ninth,C4 E4 G4 B4 D4
+D-minor seventh,D4 F4 A4 C4
+D-minor-ninth,D4 F4 A4 C4 E4
+E-minor seventh,E4 G4 B4 D4
+E-minor-ninth,E4 G4 B4 D4 F#4
+F-major seventh,F4 A4 C4 E4
+F-major-ninth,F4 A4 C4 E4 G4
+G-dominant seventh,G4 B4 D4 F4
+G-dominant-ninth,G4 B4 D4 F4 A4
+C-major-second major tetrachord,C4 E4 G4 D4
+A-minor seventh,C4 E4 G4 A4
+A-major pentatonic,C4 E4 G4 A4 D4
+C-augmented-sixth pentachord,C4 E4 G4 B-4 F#4
+C-augmented seventh,C4 E4 G#4 B-4
+C-Messiaen's truncated mode 6,C4 E4 F#4 B-4
+C-flat-ninth pentachord,C4 E4 G4 B-4 C#4
+C-dominant seventh,C4 E4 G4 B-4
+G-quartal tetramirror,C4 F4 G4 B-4
+C-dominant-ninth,C4 E4 G4 B-4 D4
+G-major pentatonic,C4 F4 G4 B-4 D4
+C-perfect-fourth major tetrachord,C4 E4 G4 F4
+C-perfect-fourth major tetrachord,C4 E4 F4 G4
+C-major-second major tetrachord,C4 E4 G4 D4
+C-augmented major tetrachord,C4 E4 G#4 B4
+C-major seventh,C4 E4 G4 B4
+C-major-ninth,C4 E4 G4 B4 D4
+C-quartal trichord,C4 D4 G4
+F-quartal trichord,C4 F4 G4
+D-quartal tetramirror,C4 F4 G4 D4
+A-quartal tetramirror,D4 G4 A4 C4
+A-major pentatonic,D4 G4 A4 C4 E4
+G#-German augmented sixth in second inversion,D4 F4 G#4 B-4
+G#-diminished seventh,D4 F4 G#4 B4
+B-half-diminished seventh,D4 F4 A4 B4
+B-Kumoi pentachord,D4 F4 A4 B4 E4
+Bb-major-second major tetrachord,D4 F4 B-4 C4
+enharmonic equivalent to half-diminished seventh above D,D4 F4 G#4 C4
+D-minor seventh,D4 F4 A4 C4
+D-major pentatonic,D4 F4 A4 C4 G4
+C-diminished-major ninth,D4 F4 G#4 C4 E-4
+D-minor-ninth,D4 F4 A4 C4 E4
+D-perfect-fourth minor tetrachord,D4 F4 G4 A4
+D-major-second minor tetrachord,D4 F4 A4 E4
+D-minor-augmented tetrachord,D4 F4 A4 C#4
+D-enigmatic pentachord,D4 F4 A4 C#4 G4
+D-quartal trichord,D4 E4 A4
+G-quartal trichord,D4 G4 A4
+E-quartal tetramirror,D4 G4 A4 E4
+B-quartal tetramirror,E4 A4 B4 D4
+B-major pentatonic,E4 A4 B4 D4 F#4
+C-dominant seventh,E4 G4 B-4 C4
+C#-diminished seventh,E4 G4 B-4 C#4
+C#-half-diminished seventh,E4 G4 B4 C#4
+C#-Kumoi pentachord,E4 G4 B4 C#4 F#4
+C-major-second major tetrachord,E4 G4 C4 D4
+E-half-diminished seventh,E4 G4 B-4 D4
+E-minor seventh,E4 G4 B4 D4
+E-major pentatonic,E4 G4 B4 D4 A4
+E-diminished-major ninth,E4 G4 B-4 D4 F4
+E-minor-ninth,E4 G4 B4 D4 F#4
+E-perfect-fourth minor tetrachord,E4 G4 A4 B4
+E-major-second minor tetrachord,E4 G4 B4 F#4
+E-minor-augmented tetrachord,E4 G4 B4 E-4
+E-enigmatic pentachord,E4 G4 B4 E-4 A4
+E-quartal trichord,E4 F#4 B4
+A-quartal trichord,E4 A4 B4
+F#-quartal tetramirror,E4 A4 B4 F#4
+F-major-second major tetrachord,F4 A4 C4 G4
+D-minor seventh,F4 A4 C4 D4
+D-major pentatonic,F4 A4 C4 D4 G4
+F-augmented-sixth pentachord,F4 A4 C4 E-4 B4
+F-augmented seventh,F4 A4 C#4 E-4
+F-Messiaen's truncated mode 6,F4 A4 B4 E-4
+F-flat-ninth pentachord,F4 A4 C4 E-4 F#4
+F-dominant seventh,F4 A4 C4 E-4
+C-quartal tetramirror,F4 B-4 C4 E-4
+F-dominant-ninth,F4 A4 C4 E-4 G4
+C-major pentatonic,F4 B-4 C4 E-4 G4
+F-perfect-fourth major tetrachord,F4 A4 C4 B-4
+F-perfect-fourth major tetrachord,F4 A4 B-4 C4
+F-major-second major tetrachord,F4 A4 C4 G4
+F-augmented major tetrachord,F4 A4 C#4 E4
+F-major seventh,F4 A4 C4 E4
+F-major-ninth,F4 A4 C4 E4 G4
+F-quartal trichord,F4 G4 C4
+Bb-quartal trichord,F4 B-4 C4
+G-quartal tetramirror,F4 B-4 C4 G4
+G-major-second major tetrachord,G4 B4 D4 A4
+E-minor seventh,G4 B4 D4 E4
+E-major pentatonic,G4 B4 D4 E4 A4
+G-augmented-sixth pentachord,G4 B4 D4 F4 C#4
+Eb-augmented seventh,G4 B4 E-4 F4
+G-Messiaen's truncated mode 6,G4 B4 C#4 F4
+G-flat-ninth pentachord,G4 B4 D4 F4 G#4
+G-dominant seventh,G4 B4 D4 F4
+D-quartal tetramirror,G4 C4 D4 F4
+G-dominant-ninth,G4 B4 D4 F4 A4
+D-major pentatonic,G4 C4 D4 F4 A4
+G-perfect-fourth major tetrachord,G4 B4 D4 C4
+G-perfect-fourth major tetrachord,G4 B4 C4 D4
+G-major-second major tetrachord,G4 B4 D4 A4
+Eb-augmented major tetrachord,G4 B4 E-4 F#4
+G-major seventh,G4 B4 D4 F#4
+G-major-ninth,G4 B4 D4 F#4 A4
+G-quartal trichord,G4 A4 D4
+C-quartal trichord,G4 C4 D4
+A-quartal tetramirror,G4 C4 D4 A4
+E-quartal tetramirror,A4 D4 E4 G4
+E-major pentatonic,A4 D4 E4 G4 B4
+F-dominant seventh,A4 C4 E-4 F4
+F#-diminished seventh,A4 C4 E-4 F#4
+F#-half-diminished seventh,A4 C4 E4 F#4
+F#-Kumoi pentachord,A4 C4 E4 F#4 B4
+F-major-second major tetrachord,A4 C4 F4 G4
+A-half-diminished seventh,A4 C4 E-4 G4
+A-minor seventh,A4 C4 E4 G4
+A-major pentatonic,A4 C4 E4 G4 D4
+A-diminished-major ninth,A4 C4 E-4 G4 B-4
+A-minor-ninth,A4 C4 E4 G4 B4
+A-perfect-fourth minor tetrachord,A4 C4 D4 E4
+A-major-second minor tetrachord,A4 C4 E4 B4
+A-minor-augmented tetrachord,A4 C4 E4 G#4
+A-enigmatic pentachord,A4 C4 E4 G#4 D4
+A-quartal trichord,A4 B4 E4
+D-quartal trichord,A4 D4 E4
+B-quartal tetramirror,A4 D4 E4 B4
+F#-quartal tetramirror,B4 E4 F#4 A4
+F#-major pentatonic,B4 E4 F#4 A4 C#4
+G-dominant seventh,B4 D4 F4 G4
+G#-diminished seventh,B4 D4 F4 G#4
+G#-half-diminished seventh,B4 D4 F#4 G#4
+G#-Kumoi pentachord,B4 D4 F#4 G#4 C#4
+G-major-second major tetrachord,B4 D4 G4 A4
+B-half-diminished seventh,B4 D4 F4 A4
+B-minor seventh,B4 D4 F#4 A4
+B-major pentatonic,B4 D4 F#4 A4 E4
+B-diminished-major ninth,B4 D4 F4 A4 C4
+B-minor-ninth,B4 D4 F#4 A4 C#4
+B-perfect-fourth minor tetrachord,B4 D4 E4 F#4
+B-major-second minor tetrachord,B4 D4 F#4 C#4
+B-minor-augmented tetrachord,B4 D4 F#4 B-4
+B-enigmatic pentachord,B4 D4 F#4 B-4 E4
+B-quartal trichord,B4 C#4 F#4
+E-quartal trichord,B4 E4 F#4
+C#-quartal tetramirror,B4 E4 F#4 C#4
