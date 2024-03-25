@@ -68,3 +68,9 @@ This README summarizes the process of fine-tuning the Llama 2 model for a music-
 
 This guide provides a step-by-step approach to fine-tuning Llama 2 using advanced techniques like LoRA and QLoRA, tailored for tasks in the music domain.
 
+## Results:
+![Example Image](https://github.com/mudassar-amin/thesis_project/blob/main/results/train_epoch.svg "This is an example image")
+![Example Image](https://github.com/mudassar-amin/thesis_project/blob/main/results/train_loss.svg "This is an example image")
+
+
+
