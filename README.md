@@ -38,3 +38,33 @@ If the `transformers` library is not already installed, you can install it using
 pip install transformers
 ```
 
+# Fine-Tuning Llama 2 with LoRA and QLoRA
+
+This README summarizes the process of fine-tuning the Llama 2 model for a music-related task, leveraging Low-Rank Adaptation (LoRA) and Quantized Low-Rank Adaptation (QLoRA) for efficiency.
+
+## Process Overview
+
+1. **Library Installation**: Install all necessary libraries, including `transformers`, `datasets`, `accelerate`, `peft`, `trl`, and `bitsandbytes`.
+
+2. **Environment Setup**: Configure your environment with the necessary Hugging Face token for access to datasets and models.
+
+3. **Library Import**: Import required Python libraries for model fine-tuning and manipulation.
+
+4. **Fine-Tuning Techniques**:
+   - **Supervised Fine-Tuning (SFT)**: Train the model on a dataset of instructions and responses.
+   - **LoRA**: Introduce adapters in certain layers to train only a fraction of the model's weights, reducing computational costs.
+   - **QLoRA**: Employ quantization in conjunction with LoRA, further reducing memory requirements by using 4-bit precision for the model's weights.
+
+5. **Dataset Preparation**: Load the music dataset from Hugging Face and preprocess it for training.
+
+6. **Model Fine-Tuning**:
+   - Load the base Llama 2 model.
+   - Apply the chosen fine-tuning technique (LoRA/QLoRA).
+   - Train the model using the prepared dataset.
+
+7. **Evaluation and Application**: Test the fine-tuned model's performance on music-related tasks and integrate it into your application.
+
+8. **Model and Tokenizer Pushing**: Upload the fine-tuned model and tokenizer to the Hugging Face Hub for easy access and sharing.
+
+This guide provides a step-by-step approach to fine-tuning Llama 2 using advanced techniques like LoRA and QLoRA, tailored for tasks in the music domain.
+
