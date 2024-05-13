@@ -1,14 +1,20 @@
-## As I was working on the midi file from where I Used simplpe midid encoder and decoder python code and gave the encoded text tot he model from the file named "I-III - C2.mid" and the output generated as [Decoded Music MIDI](https://github.com/mudassar-amin/thesis_project/blob/main/decoded_music.mid)
- , I am working on again, I also started the documentation now, so that I can prepare report.
+
+## Abstract
+This thesis explores the effectiveness of Large Language Models (LLMs) in enhancing educational methodologies, particularly focusing on personalized learning experiences in music education. Initially, a comprehensive literature review was conducted to establish the theoretical foundation and identify gaps in the current application of Large Language Models in education. Subsequently, employing a quantitative approach, the study utilized the Supervised Fine-Tuning QLoRA approach to adapt the Llama2-chat model to respond accurately to music educational queries. The Results showed the fine-tuned model with the instruction dataset provides some good results on the provided prompts. The performance of the model was evaluated using standard metrics such as BERTScore, F1 Score, and Exact_Match, which confirmed the model's efficacy in providing accurate and contextually appropriate responses. While the findings confirm the potential of integrating LLMs into educational frameworks, they also highlight some limitations, such as the need for continuous model training to adapt to evolving and diverse musical content and creativity. This study establishes a basis for future research, suggesting the exploration of symbolic music understanding models like MUsicBERT and LLMs integration within music education.
+
+## Introduction
+In recent years, the capabilities of artificial intelligence (AI) have expanded significantly, particularly in the field of natural language processing (NLP). Large Language Models (LLMs), a sophisticated form of artificial intelligence, can generate and understand human language. This thesis explores the applications of LLMs in music education, specifically within music education. These models work by using a huge collection of written text to learn how to generate and understand human language.
 
 
+Music education is challenged by different issues like limited access to quality instruction due to geographical and financial barriers, which lack students' ability to get high-quality music training. The diversity in students' learning styles and rates of progress complicates the effectiveness of traditional teaching methods.  Traditional music education methods, which often depend on one-on-one lessons or small classes, are not easily scalable, limiting the availability of quality education. 
 
+The study showed that Large Language Models (LLMs) enhance education by offering personalized learning experiences, serving as support tools, providing assessments and feedback on student work, and generating a variety of educational resources and content to enrich learning/teaching materials.  
 
+As we know, Large Language Models (LLMs) can automate tasks, but they also have some limitations such as biased output and hallucinations. To solve these issues for downstream tasks such as music education, it is necessary to control the model's response using fine-tuning method. Fine-tuning is the technique to increase the performance of LLMs in music education, where models are trained on music datasets in a supervised learning manner. This fine-tuning allows LLMs to understand and generate music content, therefore increasing their accuracy and performance in music education. Moreover, fine-tuning these models requires a lot of computational resources and VRAM due to their larger size, so we used parameter-efficient fine-tuning like QLoRA. QLoRA backpropagates gradients through a frozen, 4-bit quantized pre-trained language model into Low-Rank Adapters (LoRA). 
 
-
-
-
-
+Through this approach, we were able to fine-tune the Llama2 7B model with limited memory and resources. The Results showed the fine-tuned model with the instruction dataset provides some great results on the provided prompts. The performance of the model was evaluated using standard metrics such as BERTScore, F1
+Score, and Exact-Match, which confirmed the model’s efficacy in providing accurate and contextually appropriate responses. While the findings confirm the potential of integrating LLMs into educational frameworks, they also highlight some limitations, such as the need for continuous model training to adapt to evolving and diverse musical content and creativity. This study establishes a basis for future research, suggesting
+the exploration of symbolic music understanding models like MusicBERT and LLMs integration within music education.
 
 
 
@@ -81,9 +87,7 @@ This README summarizes the process of fine-tuning the Llama 2 model for a music-
 
 This guide provides a step-by-step approach to fine-tuning Llama 2 using advanced techniques like LoRA and QLoRA, tailored for tasks in the music domain.
 
-## Results:
-![Example Image](https://github.com/mudassar-amin/thesis_project/blob/main/results/train_epoch.svg "This is an example image")
-![Example Image](https://github.com/mudassar-amin/thesis_project/blob/main/results/train_loss.svg "This is an example image")
+
 
 
 
