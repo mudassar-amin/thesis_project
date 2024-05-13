@@ -1,4 +1,5 @@
-## As I was working on the midi file from where I did not get some result, I am working on again, I also started the documentation now, so that I can prepare report.
+## As I was working on the midi file from where I Used simplpe midid encoder and decoder python code and gave the encoded text tot he model from the file named "I-III - C2.mid" and the output generated as [Decoded Music MIDI](https://github.com/mudassar-amin/thesis_project/blob/main/decoded_music.mid)
+ , I am working on again, I also started the documentation now, so that I can prepare report.
 
 
 
